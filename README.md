@@ -5,3 +5,7 @@
 This repo is a starting point of this application. The idea is to convert this plain react app (with local state) to redux state management.
 
 Stay tuned!
+
+### Demo:
+
+![Demo of Blood glucose converter app](Blood_Glucose_Converter.png)

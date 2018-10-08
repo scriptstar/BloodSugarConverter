@@ -24,8 +24,8 @@
 }
 
 .heading {
-  height: 35vmin;
-  padding: 10vmin;
+  height: 20vmin;
+  padding: 5vmin;
   color: #000000;
   /* text-decoration: underline; */
   font-size: calc(30px + 2vmin);
