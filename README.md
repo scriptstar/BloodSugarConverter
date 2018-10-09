@@ -8,4 +8,4 @@ Stay tuned!
 
 ### Demo:
 
-<img alt="Demo of Blood glucose converter app" src="Blood_Glucose_Converter.png" width="700" height="300">
+<img alt="Demo of Blood glucose converter app" src="Blood_Glucose_Converter.png">
